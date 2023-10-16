@@ -1,7 +1,7 @@
 plugins {
     kotlin("android")
     id("com.android.library")
-    id("com.vanniktech.maven.publish")
+    id("maven-publish")
 }
 
 setupModuleForAndroidxCompose()
